@@ -1,15 +1,15 @@
 module top_level (
-	/* Add your inputs here
-		Clock
+	/* Add your inputs here */
+	
+	// Clock
 		
-		Keys
+	// Keys
 		
-		Leds
-	*/
+	// Leds
+	
+	// Switches
+	
 );
-
-
-
 
     nios_system u0 (
         .clk_clk       (/* Connect the clock */),       
