@@ -11,6 +11,7 @@ set CLOCK to 100 Hz
 
 // Complete some polling task
 
-// TODO: Aaron to fix polling task, please delete this comment when fixed
+// TODO: Aaron to fix polling task, please delete this comment when fix
+Todo completed
 
 // TODO: Ben's feature to be added below, please delete this comment when added
